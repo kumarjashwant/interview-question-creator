@@ -18,4 +18,6 @@ conda activate interview
 
 3. git commit -m "readme updated"
 
+4.git push origin main
+
 ````
